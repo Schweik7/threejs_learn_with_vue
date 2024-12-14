@@ -11,6 +11,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "dat.gui": "^0.7.9",
+    "stats.js": "^0.17.0",
     "three": "^0.171.0",
     "three-stdlib": "^2.34.0",
     "vue": "^3.5.13"
